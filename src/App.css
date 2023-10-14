@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #3498db;
+  padding: 20px;
+  color: white;
+}
+
+.Profile-picture {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.Page-content {
+  margin: 20px;
+}
+
+.HomePage {
+  margin-top: 50px;
+}
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #3498db;
+  padding: 20px;
+  color: white;
+}
+
+.Profile-picture {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+}
+
+.Page-content {
+  margin: 20px;
+}
+
+.HomePage {
+  margin-top: 50px;
+}
